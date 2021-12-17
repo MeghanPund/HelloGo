@@ -1,0 +1,1 @@
+Started playing with Go on 17 December 2021 because it's more fun than Java. :)
